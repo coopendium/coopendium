@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Coopendium</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="divider">-----</string>
+    <string name="what_house">What co-op are you a member of?</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="welcome_home">Welcome home.</string>
+    <string name="blurb">This is Coopendium, the definitive source for resources on cooperatives.</string>
+    <string name="new_user">I\'m new</string>
+    <string name="existing_user">I\'ve been here before</string>
+    <string name="personal_info">Tell us a bit about yourself.</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="skills">What is your passion?</string>
+    <string name="skills_blurb">Cooperatives need everybody\'s talents. What do you enjoy?</string>
+    <string name="im_into">I\'m into...</string>
+    <string name="goals">House Goals</string>
+    <string name="needs">House Needs</string>
+    <string name="information">Information Center</string>
+    <string name="spinner">Check out the cool spinner</string>
+    <string name="resource_pool">Resource Pool</string>
+</resources>

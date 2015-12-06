@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="coops">
+        <!-- independent -->
+        <item>German Haus</item>
+        <item>Marjorie~Daw</item>
+        <item>Sasona</item>
+        <item>Whitehall</item>
+
+        <item>@string/divider</item>
+
+        <!-- icc -->
+        <item>Arrakis</item>
+        <item>Avalon</item>
+        <item>Eden</item>
+        <item>French House</item>
+        <item>Helios</item>
+        <item>House of Commons</item>
+        <item>New Guild</item>
+        <item>Royal House</item>
+        <item>Seneca</item>
+
+        <item>@string/divider</item>
+
+        <!-- college houses -->
+        <item>21st St Co-op</item>
+        <item>Pearl St Co-op</item>
+        <item>Laurel Co-op</item>
+        <item>Nueces Co-op</item>
+        <item>Halstead Co-op</item>
+        <item>Taos Co-op</item>
+        <item>Opsis Co-op</item>
+    </string-array>
+
+    <string-array name="resource_pool_demo_items">
+        <item>(10) 2x4 Lumber</item>
+        <item>(5) 4x8 Plywood Sheets</item>
+        <item>(10 boxes) Finishing Nails</item>
+        <item>(2 boxes) Drywall Screws</item>
+
+        <item>@string/divider</item>
+
+        <item>(1) Yamaha Drum Set</item>
+        <item>(1) Fender Electric Guitar</item>
+        <item>(1) Fender Rhodes Keyboard</item>
+    </string-array>
+</resources>
